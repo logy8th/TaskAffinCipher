@@ -16,13 +16,13 @@ Dosen       : Ahmad Turmudizy,S.Kom.,M.Kom
 
  Pada pertemuan ke-7 yang lalu, saya mendapat tugas untuk mengerjakan task yang terdapat didalam materi pada pertemuan ke-7, berikut tugas yang terdapat dalam materi : <br>
 <div align="center">
-<img src="images/" >
+<img src="images/image-2.png" >
 </div>
 <br>
 
 Untuk membuat program yang diminta, saya menggunakan source code sebagai berikut: <br>
 
-<img src="images/" >
+<img src="images/image-1.png" >
 <br>
 
 
@@ -33,26 +33,11 @@ Untuk membuat program yang diminta, saya menggunakan source code sebagai berikut
 
 Dari script diatas jika kita run, maka akan menghasilkan outpus sebagai berikut : <br>
 
-**1. Waiting- - -**
+**Output**
 <div align="center">
-<img src="images/" >
+<img src="images/image.png" >
 </div>
 <br>
-<br>
-
-**2. Waiting- - -**
-<div align="center">
-<img src="images/" >
-</div>
-<br>
-<br>
-
-**3. Waiting- - -**
-<div align="center">
-<img src="images/" >
-</div>
-<br>
-
 
 ***
 **Sekian tugas untuk pertemuan ke-6 mengenai materi Playfair Cipher, Terimakasih.**
