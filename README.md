@@ -40,7 +40,7 @@ Dari script diatas jika kita run, maka akan menghasilkan outpus sebagai berikut 
 <br>
 
 ***
-**Sekian tugas untuk pertemuan ke-6 mengenai materi Playfair Cipher, Terimakasih.**
+**Sekian tugas untuk pertemuan ke-7 mengenai materi Playfair Cipher, Terimakasih.**
 <br>
 
 **Naufal Nirwansyah | TI. 20. A1 | 312010174**
